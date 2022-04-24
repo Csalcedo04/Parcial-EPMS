@@ -1,0 +1,21 @@
+[
+    {
+       ...,
+       "id": 5466310457,
+       "status": "pending",
+       "status_detail": "pending_waiting_payment",
+       ...,
+       "transaction_details": {
+           "payment_method_reference_id": "24308386",
+           "verification_code": "24308386",
+           "net_received_amount": 0,
+           "total_paid_amount": 5000,
+           "overpaid_amount": 0,
+           "external_resource_url": "https://www.mercadopago.com/mco/payments/sandbox/ticket/helper?payment_id=1234&payment_method_reference_id=12345678&caller_id=1234&hash=aaaaaa-bbb-cccc-dddd-eeeeeeee",
+           "installment_amount": 0,
+           "financial_institution": "",
+           "payable_deferral_period": null,
+           "acquirer_reference": null
+      }
+     }
+   ]

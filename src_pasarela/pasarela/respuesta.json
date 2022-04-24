@@ -1,0 +1,15 @@
+[
+    {
+       ...,
+       "status": "pending",
+       "status_detail": "pending_waiting_transfer"
+       ...,
+       "transaction_details": {
+           ...,
+           "external_resource_url": "https://www.mercadopago.com/mco/payments/bank_transfer/sandbox/helper/commerce?id=3692089&caller_id=1234&hash=aaaaaa-bbb-cccc-dddd-eeeeeeee",
+           "installment_amount": 0,
+           "financial_institution": "1234",
+           "payment_method_reference_id": null
+       }
+    }
+   ]
